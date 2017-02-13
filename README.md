@@ -1,4 +1,5 @@
 # practica-1
+r truco descargar archivos directos
 
 temporal <- tempfile()
 download.file("http://www.beta.inegi.org.mx/contenidos/proyectos/enchogares/regulares/enoe/microdatos/enoe_15ymas/2016/2016trim1_dbf.zip", temporal)
